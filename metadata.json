@@ -1,0 +1,6 @@
+{
+  "name": "PulseCare HMS - Modern Hospital Management System",
+  "description": "Enterprise-grade digital hospital management system with dedicated portals for Patients, Doctors, Nurses, Receptionists, and Administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
